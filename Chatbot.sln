@@ -1,0 +1,66 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chatbot", "Chatbot\Chatbot.csproj", "{DEFABBA1-387C-44A1-A515-22D50950AF32}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LLamaSharp", "D:\SciSharp LLamaSharp master LLama\LLamaSharp.csproj", "{C47F304D-1964-4DA5-A2DB-52CF75E2D6D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Arm64 = Debug|Arm64
+		Debug|x64 = Debug|x64
+		GPU|Any CPU = GPU|Any CPU
+		GPU|Arm64 = GPU|Arm64
+		GPU|x64 = GPU|x64
+		Release|Any CPU = Release|Any CPU
+		Release|Arm64 = Release|Arm64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEFABBA1-387C-44A1-A515-22D50950AF32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEFABBA1-387C-44A1-A515-22D50950AF32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEFABBA1-387C-44A1-A515-22D50950AF32}.Debug|Arm64.ActiveCfg = Debug|Any CPU
+		{DEFABBA1-387C-44A1-A515-22D50950AF32}.Debug|Arm64.Build.0 = Debug|Any CPU
+		{DEFABBA1-387C-44A1-A515-22D50950AF32}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DEFABBA1-387C-44A1-A515-22D50950AF32}.Debug|x64.Build.0 = Debug|Any CPU
+		{DEFABBA1-387C-44A1-A515-22D50950AF32}.GPU|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFABBA1-387C-44A1-A515-22D50950AF32}.GPU|Any CPU.Build.0 = Release|Any CPU
+		{DEFABBA1-387C-44A1-A515-22D50950AF32}.GPU|Arm64.ActiveCfg = Release|Any CPU
+		{DEFABBA1-387C-44A1-A515-22D50950AF32}.GPU|Arm64.Build.0 = Release|Any CPU
+		{DEFABBA1-387C-44A1-A515-22D50950AF32}.GPU|x64.ActiveCfg = Release|Any CPU
+		{DEFABBA1-387C-44A1-A515-22D50950AF32}.GPU|x64.Build.0 = Release|Any CPU
+		{DEFABBA1-387C-44A1-A515-22D50950AF32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEFABBA1-387C-44A1-A515-22D50950AF32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEFABBA1-387C-44A1-A515-22D50950AF32}.Release|Arm64.ActiveCfg = Release|Any CPU
+		{DEFABBA1-387C-44A1-A515-22D50950AF32}.Release|Arm64.Build.0 = Release|Any CPU
+		{DEFABBA1-387C-44A1-A515-22D50950AF32}.Release|x64.ActiveCfg = Release|Any CPU
+		{DEFABBA1-387C-44A1-A515-22D50950AF32}.Release|x64.Build.0 = Release|Any CPU
+		{C47F304D-1964-4DA5-A2DB-52CF75E2D6D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C47F304D-1964-4DA5-A2DB-52CF75E2D6D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C47F304D-1964-4DA5-A2DB-52CF75E2D6D5}.Debug|Arm64.ActiveCfg = Debug|Arm64
+		{C47F304D-1964-4DA5-A2DB-52CF75E2D6D5}.Debug|Arm64.Build.0 = Debug|Arm64
+		{C47F304D-1964-4DA5-A2DB-52CF75E2D6D5}.Debug|x64.ActiveCfg = Debug|x64
+		{C47F304D-1964-4DA5-A2DB-52CF75E2D6D5}.Debug|x64.Build.0 = Debug|x64
+		{C47F304D-1964-4DA5-A2DB-52CF75E2D6D5}.GPU|Any CPU.ActiveCfg = GPU|Any CPU
+		{C47F304D-1964-4DA5-A2DB-52CF75E2D6D5}.GPU|Any CPU.Build.0 = GPU|Any CPU
+		{C47F304D-1964-4DA5-A2DB-52CF75E2D6D5}.GPU|Arm64.ActiveCfg = GPU|Arm64
+		{C47F304D-1964-4DA5-A2DB-52CF75E2D6D5}.GPU|Arm64.Build.0 = GPU|Arm64
+		{C47F304D-1964-4DA5-A2DB-52CF75E2D6D5}.GPU|x64.ActiveCfg = GPU|x64
+		{C47F304D-1964-4DA5-A2DB-52CF75E2D6D5}.GPU|x64.Build.0 = GPU|x64
+		{C47F304D-1964-4DA5-A2DB-52CF75E2D6D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C47F304D-1964-4DA5-A2DB-52CF75E2D6D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C47F304D-1964-4DA5-A2DB-52CF75E2D6D5}.Release|Arm64.ActiveCfg = Release|Arm64
+		{C47F304D-1964-4DA5-A2DB-52CF75E2D6D5}.Release|Arm64.Build.0 = Release|Arm64
+		{C47F304D-1964-4DA5-A2DB-52CF75E2D6D5}.Release|x64.ActiveCfg = Release|x64
+		{C47F304D-1964-4DA5-A2DB-52CF75E2D6D5}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E57459F5-1EC1-40EB-A499-6CCBB6B4BD17}
+	EndGlobalSection
+EndGlobal
