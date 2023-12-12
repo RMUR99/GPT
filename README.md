@@ -7,7 +7,7 @@
 
 <h1 align="center">
   <br>
-  <img src="https://github.com/RMUR99/GPT/assets/85951306/2dccd9e7-bd59-4e05-b17d-5daa71c06e5b" alt="readme-image" width="800">
+  <img src="https://github.com/RMUR99/GPT/assets/85951306/ae59e5aa-af8e-4943-b801-8342f02c4f6b" alt="readme-image" width="800">
   <br>
 </h1>
 
