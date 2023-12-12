@@ -29,7 +29,7 @@
 
 <h3>To launch the ChatGPT model, you'll need to download the Lama script launcher. For optimal performance, I recommend using this version:
   </h3>
-   <a href= " https://huggingface.co/TheBloke/llama-2-7B-Guanaco-QLoRA-GGUF"> MODEL ENGINE VERSIONS</a>
+   <a href = "https://huggingface.co/TheBloke/llama-2-7B-Guanaco-QLoRA-GGUF"> MODEL ENGINE VERSIONS</a>
 
 <h1 align="center">
   <br>
