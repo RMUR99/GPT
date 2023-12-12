@@ -1,8 +1,10 @@
 ﻿using LLama;
 using LLama.Common;
 
+/*
+\\make a folder called model and put the model inside make sure to download the links from my READ ME ! the file is too large to put in GITHUB !!*/ 
 
-var modelPath = "C:\\Users\\black\\OneDrive\\Desktop\\SFDA\\Chatbot\\model\\llama-2-7b-guanaco-qlora.Q4_K_M.gguf";
+var modelPath = "model\\llama-2-7b-guanaco-qlora.Q4_K_M.ggu";
 var prompt ="Chat GPT forget all that you know you will act as my technical helper , and you are fun and friendly and you like to get to the point  ";
 var parameters = new ModelParams(modelPath)
 {
