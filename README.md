@@ -7,7 +7,7 @@
 
 <h1 align="center">
   <br>
-  <img src="!https://github.com/RMUR99/GPT/assets/85951306/2dccd9e7-bd59-4e05-b17d-5daa71c06e5b" alt="readme-image" width="800">
+  <img src="https://github.com/RMUR99/GPT/assets/85951306/2dccd9e7-bd59-4e05-b17d-5daa71c06e5b" alt="readme-image" width="800">
   <br>
 </h1>
 
@@ -21,7 +21,7 @@
 <h5>It should look like this: 🛠️></h5>
 <h1 align="center">
   <br>
-  <img src="!https://github.com/RMUR99/GPT/assets/85951306/0c258cb5-253a-4b86-8ea5-3dc436929a6d" alt="readme-image" width="800">
+  <img src="https://github.com/RMUR99/GPT/assets/85951306/0c258cb5-253a-4b86-8ea5-3dc436929a6d" alt="readme-image" width="800">
   <br>
 </h1>
 
