@@ -68,7 +68,7 @@
   
 <h1 align="center">
   <br>
-  <img src="https://github.com/RMUR99/GPT/assets/85951306/678ecc6b-f385-47b3-a10e-2fb138b3c530" alt="readme-image" width="800">
+  <img src="https://github.com/RMUR99/GPT/assets/85951306/1247f525-c8a8-4dd4-99fb-7b3188958dd4" alt="readme-image" width="800">
   <br>
 </h1>
 
@@ -77,7 +77,7 @@
   
 <h1 align="center">
   <br>
-  <img src="https://github.com/RMUR99/GPT/assets/85951306/4063721f-d6cd-4fc5-84ad-991efb9046ba" alt="readme-image" width="800">
+  <img src="https://github.com/RMUR99/GPT/assets/85951306/c1b6e786-b5aa-4202-b89b-ec93399064fd"alt="readme-image" width="800">
   <br>
 </h1>
 
@@ -85,7 +85,7 @@
   
 <h1 align="center">
   <br>
-  <img src="https://github.com/RMUR99/GPT/assets/85951306/80b49b87-0bb0-4601-8d08-6bc8e344e202" alt="readme-image" width="800">
+  <img src="https://github.com/RMUR99/GPT/assets/85951306/aaba73f4-97e0-417d-8d37-d62f2aa743ab" alt="readme-image" width="800">
   <br>
 </h1>
 
@@ -93,7 +93,7 @@
   
 <h1 align="center">
   <br>
-  <img src="https://github.com/RMUR99/GPT/assets/85951306/2e75f157-8e60-4f38-968f-5ef53132bf2e" alt="readme-image" width="800">
+  <img src="https://github.com/RMUR99/GPT/assets/85951306/979ec238-b4fd-4567-80ff-f39abe7815d1" alt="readme-image" width="800">
   <br>
 </h1>
 
