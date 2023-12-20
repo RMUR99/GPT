@@ -1,4 +1,4 @@
-#GPT UTILIZATION 
+#GPT UTILIZATION !
 <h1>After pulling make a folder inside chatbot folder with any name that you want and download  the model it everything will be clear as i go with the documentations in this case i called it Model !! </h1>
 
 <h1> Download the extensions from Visual Studio  </h1>
